@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-tag-folders",
+	"name": "Tag folders",
+	"version": "0.0.1",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "View virtual folders based on your tags",
+	"author": "Adam Cox",
+	"authorUrl": "https://github.com/adamjhc",
 	"isDesktopOnly": false
 }
